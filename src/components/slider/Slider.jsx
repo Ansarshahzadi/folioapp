@@ -16,7 +16,6 @@ const Slider = () => {
                 data-bs-interval="3000"
             >
                 <div className="carousel-inner">
-                    {/* Slide 1 */}
                     <div className="carousel-item active">
                         <div className="row p-4 bg-light rounded">
                             <div className="col-2">
@@ -31,8 +30,6 @@ const Slider = () => {
                             </div>
                         </div>
                     </div>
-
-                    {/* Slide 2 */}
                     <div className="carousel-item">
                         <div className="row p-4 bg-light rounded">
                             <div className="col-2">
@@ -47,8 +44,6 @@ const Slider = () => {
                             </div>
                         </div>
                     </div>
-
-                    {/* Slide 3 */}
                     <div className="carousel-item">
                         <div className="row p-4 bg-light rounded">
                             <div className="col-2">
@@ -63,8 +58,6 @@ const Slider = () => {
                         </div>
                     </div>
                 </div>
-
-                {/* Controls */}
                 <button
                     className="carousel-control-prev"
                     type="button"
