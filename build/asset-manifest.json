@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1b7461e.css",
+    "main.js": "/static/js/main.53947a9d.js",
+    "static/media/newedited.png": "/static/media/newedited.28ef72642fb0450cd882.png",
+    "static/media/Furniture.png": "/static/media/Furniture.5dae0faf27fc2e229bc1.png",
+    "static/media/sushi club.png": "/static/media/sushi club.2d2f91846b0746f09dc8.png",
+    "static/media/kiran1.png": "/static/media/kiran1.638e13f4cf37245cacf7.png",
+    "static/media/avatar.png": "/static/media/avatar.e53d606713f015723fe0.png",
+    "static/media/course card.png": "/static/media/course card.bca30b7ea740a3d5c91c.png",
+    "static/media/sonia.jpg": "/static/media/sonia.c97d22d7a560c63bbb9a.jpg",
+    "static/media/jaweria.jpg": "/static/media/jaweria.f9eeaa5ca9944b8b20be.jpg",
+    "static/media/Service Illustration.png": "/static/media/Service Illustration.81e73c7c3ecf8f47fa89.png",
+    "index.html": "/index.html",
+    "main.d1b7461e.css.map": "/static/css/main.d1b7461e.css.map",
+    "main.53947a9d.js.map": "/static/js/main.53947a9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1b7461e.css",
+    "static/js/main.53947a9d.js"
+  ]
+}
