@@ -170,7 +170,6 @@ const Carousel = () => {
                     </div>
                     <div className="carousel-item py-3 text-center fw-bold">
                         <div className="row">
-                            {/* Project 1 */}
                             <div className="col-sm-12 col-md-3 mb-3">
                                 <Link
                                     href="./projects/furniture/index.html"
@@ -188,7 +187,6 @@ const Carousel = () => {
                                     </div>
                                 </Link>
                             </div>
-                            {/* Project 2 */}
                             <div className="col-sm-12 col-md-3 mb-3">
                                 <Link
                                     href="./projects/portfolio design/index.html"
@@ -206,7 +204,6 @@ const Carousel = () => {
                                     </div>
                                 </Link>
                             </div>
-                            {/* Project 3 */}
                             <div className="col-sm-12 col-md-3 mb-3">
                                 <Link
                                     href="./projects/figma template sushi/index.html"
@@ -224,7 +221,6 @@ const Carousel = () => {
                                     </div>
                                 </Link>
                             </div>
-                            {/* Project 4 */}
                             <div className="col-sm-12 col-md-3 mb-3">
                                 <Link
                                     href="./projects/Avatar Design/index1.html"
